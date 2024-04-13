@@ -5,4 +5,4 @@ App:
 TBot:
   Token: <TBotToken>
   Channel: <ChannelName>
-  SuccessImagePath: img/success/m,
+  SuccessImagePath: img/success/
