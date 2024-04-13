@@ -1,0 +1,8 @@
+App:
+  Cache:
+    Dir: data/cache/
+  OpenApiToken: <OpenApiToken>
+TBot:
+  Token: <TBotToken>
+  Channel: <ChannelName>
+  SuccessImagePath: img/success/1``
